@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "description": "react test",
+  "main": "index.js",
+  "authors": [
+    "lss"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+  
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
